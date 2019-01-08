@@ -1,0 +1,39 @@
+Folgenden Maßnahmen hat einen größeren Einfluss auf das Ranking einer Webseite und warum: 
+10 Links von einer Website oder ein Link von 10 verschiedenen Webseiten?
+10 Links von verschiedenen Webseiten sind besser. Je mehr Links von nur einer Domain umso schwächer 
+wird die Empfehlung durch Google gemessen. Bspl. 
+1 Link => 100%, 2 Links => jeweils 50%, 4 Links => jeweils 25%. Hinzu kommen natürlich viele weitere 
+Aspekte der Link Bewertung ( Linkjuice, h1 - h6, anchortext, doFollow)
+
+
+Google Maps/MyBusiness positiv beeinflussen.
+Keyword im Title, Entfernung, Kataegorie & Link Signals, On-Page-Signals, Citation-Signals.....
+
+
+Duplicate Content (z.B. Sortierung in Shops) beseitigen:
+Mit einem canonical Tag z.b.
+<link rel=“canonical“ href=“https://www.ich -bin-das-original.de“ />
+
+
+
+
+
+3 wichtigsten Onpage-Faktoren:
+Mobile-friendly/Responsive Website
+Keyword Relevance im Content / Keyword Density
+Pagespeed  => UI&UX im Bezug der Absprungrate
+
+In den drei sind auch alle weiteren Themen enthalten ( Title Tag, MetaTag, Footer, Contentlänge, Bilder (alt Tag), Verlinkung innerhalb der Seite mit den Subdomains, crawling durch Google  )
+Fazit: Für mich ist alles wichtig.
+Aber an erster Stelle steht der USER! :-)
+Man optimiert nicht mehr Webseiten nur für Google sondern vorallem auch für den Besucher.
+
+
+SEO-Trends sind 2018 von Bedeutung?
+
+Mobile First
+UI & UX
+Pagespeed
+Sicherheit SSL => https
+
+Hervorragender Content für den USER! :-)
